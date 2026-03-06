@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(238, 245, 255);
+}
+
+.button {
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(38, 228, 117);
+    color: azure;
+    cursor: pointer;
+}
+
+.картинки {
+    width: 800px;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.заголовки {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 250px;
+    height: 240px;
+    border: 5px solid rgb(180, 180, 180);
+}
+
+table,tr,td,th {
+    border: solid 2px rgb(90, 74, 0);
+    font-size: 20px;
+}
+
+.kartinka {
+    text-align: center;
+}
+
+
+
+
